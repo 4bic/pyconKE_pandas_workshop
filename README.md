@@ -1,5 +1,3 @@
-Pandas Basic Operations
-===============
 
 Materials for the pandas workshop by [@4bic] at [PyConKE_2018]
 

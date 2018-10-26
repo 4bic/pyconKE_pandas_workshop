@@ -1,0 +1,9 @@
+name: pyconKE_pandas_workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pandas=0.23.3
+  - matplotlib=2.2
+  - jupyter=1.0

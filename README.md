@@ -1,7 +1,5 @@
-Pandas Basic Operations
-===============
 
-Materials for the pandas workshop by @4bic[1]. at PyConKE_2018[2]
+Materials for the pandas workshop by [@4bic] at [PyConKE_2018]
 
 Run online
 ----------
@@ -27,5 +25,5 @@ Activate environment and run Jupyter:
 
 - `source activate pyconKE_pandas_workshop && jupyter notebook`
 
-[1]: https://github.com/4bic
-[2]: https://www.pycon.or.ke
+[@4bic]:https://github.com/4bic
+[PyConKE_2018]:https://www.pycon.or.ke

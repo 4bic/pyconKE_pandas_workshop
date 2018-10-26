@@ -6,7 +6,7 @@ Materials for the pandas workshop by @4bic.
 Run online
 ----------
 
-[![Binder](https://mybinder.org/badge.svg)](#)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/4bic/pyconKE_pandas_workshop/master)
 
 Local installation
 ------------------
